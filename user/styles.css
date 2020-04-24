@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.web-head {
+    width: 83%;
+    height: 9vh;
+    background: rgb(168, 168, 168);
+    float: right;
+    padding-top: 10px;
+}
+
+.web-left {
+    width: 17%;
+    position: fixed;
+    height: 100vh;
+    padding-top: 4px;
+    background: rgb(85, 153, 243);
+    float: left;
+    padding: 10px 35px;
+}
+
+.web-right {
+    float: right;
+    margin-left: 290px;
+    margin-top: 100px;
+    position: absolute;
+}
+
+.tables {
+    position: relative;
+    margin-top: -300px;
+}
+
+th {
+    text-align: center;
+}
+
+.web-rightlgn {
+    float: right;
+    margin-left: 250px;
+    position: absolute;
+}
+
+.ttl-web {
+    color: white;
+    text-align: center;
+}
+
+.bbtn {
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.bbn {
+    margin-left: 80%;
+}
+
+.ttl-head {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+
+}
+
+/* LOGIN */
+.web-login {
+    width: 100%;
+    padding: 5%;
+    background: rgb(56, 131, 243);
+    margin-top: 10%;
+}
+
+.box-login {
+    margin: auto;
+}
+
+.login-form {
+    text-align: center;
+}
+
+.lgn-label {
+    margin-left: 50px;
+    color: white;
+}
+
+.alert {
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(235, 178, 178);
+    background: rgba(255, 0, 0, 0.705);
+}
+
+.label-admin-lgn {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 50px;
+}

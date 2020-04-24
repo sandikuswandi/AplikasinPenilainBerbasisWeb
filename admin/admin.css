@@ -1,0 +1,93 @@
+
+/* style Admin */
+
+body {
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
+}
+.container {
+    background-image: url(latar.jpg);
+    height: 900px;
+    padding: 30px;
+    margin-left: center;
+    margin-top: 30px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+.container .header {
+    padding: 10px;
+}
+.container .header img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-left: 170px;
+}
+.container .tambahan img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    float: right;
+    margin-top: -95px;
+    margin-right: 170px;
+}
+.container .header p {
+    font-family:'Lucida Sans Regular';
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -80px;
+}
+.container .header h6 {
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    margin-top: -10px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.container .menuAtas {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container .menuAtas a {
+    font-family:'Lucida Sans Regular';
+    color: black;
+    font-size: 13px;
+    margin: 50px;
+}
+.container .konten {
+    background: white;
+    width: 1080px;
+    height: 660px;
+    float: right;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.konten table {
+    margin-top: 20px;
+    font-family: 'Lucida Sans Regular';
+    text-align: center;
+}
+.konten b {
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans Regular';
+}
+.konten p {
+    color: black;
+    font-family: 'Lucida Sans Regular';
+    font-size: 13px;
+}
+.konten a b {
+    background: blue;
+    padding: 10px;
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    float: right;
+}

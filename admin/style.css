@@ -1,0 +1,172 @@
+
+/* style Layout */
+
+body {
+    background-image: url(Back.jpg);
+    background-size: 100% 100%;
+}
+.container {
+    background-image: url(Latar.jpg);
+    height: 900px;
+    padding: 30px;
+    margin-left: center;
+    margin-top: 30px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+.container .header {
+    font-family:'Lucida Sans Regular';
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+}
+.container .header h6 {
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.container .header img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.container .tambahan img {
+    width: 230px;
+    height: 85px;
+    border-radius: 10px;
+    float: right;
+    margin-top: -80px;
+}
+.container .menuAtas {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container .menuAtas a {
+    font-family:'Lucida Sans Regular';
+    color: black;
+    font-size: 13px;
+    margin: 50px;
+}
+.container .login {
+    background: white;
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    /*ketebalan font*/
+    font-weight: 300;
+}
+
+.tulisan_login{
+    text-align: center;
+    /*membuat semua huruf menjadi kapital*/
+    text-transform: uppercase;
+}
+
+.kotak_login{
+    width: 350px;
+    background: white;
+    /*meletakkan form ke tengah*/
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label{
+    font-size: 11pt;
+}
+
+.form_login{
+    /*membuat lebar form penuh*/
+    box-sizing : border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
+
+.tombol_login{
+    background: #46de4b;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+.link{
+    color: #232323;
+    text-decoration: none;
+    font-size: 10pt;
+}
+.container .konten {
+    background: white;
+    width: 750px;
+    height: 580px;
+    float: right;
+    margin-top: -300px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.konten table {
+    margin-top: 40px;
+    font-family: 'Lucida Sans Regular';
+    text-align: center;
+}
+.konten b {
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans Regular';
+}
+.konten p {
+    color: black;
+    font-family: 'Lucida Sans Regular';
+    font-size: 13px;
+}
+.konten a b {
+    background: blue;
+    padding: 10px;
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    float: right;
+}
+.gambar {
+    background: white;
+    width: 300px;
+    height: 250px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.gambar b {
+    color: black;
+    font-size: 15px;
+    font-family: 'Lucida Sans Regular';
+}
+.gambar img {
+    width: 170px;
+    height: 170px;
+    border-radius: 15px;
+    margin-top: 35px;
+}
+.footer {
+    padding: 30px;
+    text-align: center;
+}
+.footer b {
+    color: white;
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+}

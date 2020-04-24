@@ -1,0 +1,103 @@
+
+/* style galeri */
+
+body {
+    background-image: url(Back.jpg);
+    background-size: 100% 100%;
+}
+.container {
+    background-image: url(Latar.jpg);
+    height: 900px;
+    padding: 30px;
+    margin-left: center;
+    margin-top: 30px;
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+.container .header {
+    font-family:'Lucida Sans Regular';
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+}
+.container .header h6 {
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.container img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.container .tambahan img {
+    width: 230px;
+    height: 85px;
+    border-radius: 10px;
+    float: right;
+    margin-top: -80px;
+}
+.container .menuAtas {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container .menuAtas a {
+    font-family:'Lucida Sans Regular';
+    color: black;
+    font-size: 13px;
+    margin: 50px;
+}
+.container .badan .konten {
+    background: white;
+    width: 1080px;
+    height: 580px;
+    float: right;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+}
+.badan .konten b {
+    color: black;
+    font-size: 20px;
+    font-family: 'Lucida Sans Regular';
+}
+.badan .konten .poto1 img {
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+.badan .konten .poto2 img {
+    border-radius: 10px;
+    width: 400px;
+    height: 200px;
+    float: right;
+    margin-top: -30px;
+}
+.badan .konten .poto3 img {
+    border-radius: 10px;
+    width: 700px;
+    height: 200px;
+}
+.badan .konten a b {
+    background: blue;
+    padding: 10px;
+    font-family: 'Lucida Sans Regular';
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    float: right;
+}
+.badan .footer {
+    padding: 40px;
+    text-align: center;
+}
+.footer b {
+    color: white;
+    font-family: 'Lucida Sans Regular';
+    font-size: 15px;
+}

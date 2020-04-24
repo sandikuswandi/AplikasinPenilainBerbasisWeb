@@ -1,0 +1,7 @@
+Akun admin
+Username = admin
+Password = admin123
+
+Akun user
+Username = user
+Password user
